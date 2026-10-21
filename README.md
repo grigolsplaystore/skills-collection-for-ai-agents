@@ -15,8 +15,7 @@ skills/
 ├── grill-me/
 │   └── SKILL.md
 ├── summarize/
-│   ├── SKILL.md
-│   └── startup_hook.py
+│   └── SKILL.md
 └── teach/
     ├── SKILL.md
     └── *.md
